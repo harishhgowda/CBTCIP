@@ -65,8 +65,7 @@ plt.show()
 
 
     
-![png](output_0_1.png)
-    
+![png](https://github.com/harishhgowda/CBTCIP/blob/main/output_file.png)   
 
 
 
