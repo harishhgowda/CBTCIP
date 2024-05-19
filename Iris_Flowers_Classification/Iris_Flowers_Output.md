@@ -12,7 +12,7 @@
 
 
     
-![png](https://github.com/harishhgowda/CBTCIP/Iris_Flowers_Classification/output_file.png)
+![png](https://github.com/harishhgowda/CBTCIP/blob/main/Iris_Flowers_Classification/output_file.png)
     
 
 
